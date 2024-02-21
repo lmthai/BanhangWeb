@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="css\site.css" />
     <Content Include="Db\Vidu.sql" />
+    <Content Include="Db\Vidu2.sql" />
     <Content Include="default.aspx" />
     <Content Include="Images\giaynam723089.jpg" />
     <Content Include="Login.aspx" />

@@ -10,7 +10,6 @@ namespace BanhangWeb
 {
     public partial class Main : System.Web.UI.MasterPage
     {
-        //public string user="";
         protected void Page_Load(object sender, EventArgs e)
         {
             string user = (string)Session["username"];
